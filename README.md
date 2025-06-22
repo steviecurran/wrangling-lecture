@@ -8,7 +8,7 @@ Given in conjunction with two notebboks:
 
   Here it is used to introduce dataframes and how these can be combined
 
-- Ex2.ipynb, which uses data on the number of fires in the Amazon rainforest, to demonstrate some data cleaning:
+- Ex2.ipynb, which uses data on the number of fires in the Amazon rainforest, to demonstrate some data cleaning and visualisation:
 
     - Renaming parameters (column names), including the use of dictionaries
     - Identifying problems with the data
@@ -19,6 +19,6 @@ Given in conjunction with two notebboks:
     - Time Series
     - Significance and correlation
       
-  Which shows that the number of fires has been steadily increasing over the range of the data (1998 - 2018) 
+  The latter of which shows that the number of fires has been steadily increasing over the range of the data (1998 - 2018) 
 
 ![](https://raw.githubusercontent.com/steviecurran/wrangling-lecture/refs/heads/main/Fires_scatter-Years-sum.png)

@@ -4,11 +4,11 @@ A lecture on introductory data wrangling for my 3rd year Physics and Space Scien
 
 Given in conjunction with two notebboks:
 
-- Ex1.ipynb which uses data we worked with in 2nd year for the of concepts mean, variance, the central limit theorem and A/B testing
+- Ex1.ipynb, which uses data we worked with in 2nd year for the of concepts mean, variance, the central limit theorem and A/B testing
 
   Here it is used to introduce dataframes and how these can be combined
 
-- Ex2.ipynb which uses dataset on the number of fires in the Amazon rainforest to demonstrate some data cleaning:
+- Ex2.ipynb, which uses data on the number of fires in the Amazon rainforest, to demonstrate some data cleaning:
 
     - Renaming parameters (column names), including the use of dictionaries
     - Identifying problems with the data

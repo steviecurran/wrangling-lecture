@@ -19,6 +19,6 @@ Given in conjunction with two notebboks:
     - Time Series
     - Significance and correlation
       
-  Which shows that the number of fires has been steadily increasing (a p-value of $p = 0.0008$) over the range of the data (1998 - 2018) 
+  Which shows that the number of fires has been steadily increasing over the range of the data (1998 - 2018) 
 
 ![](https://raw.githubusercontent.com/steviecurran/wrangling-lecture/refs/heads/main/Fires_scatter-Years-sum.png)

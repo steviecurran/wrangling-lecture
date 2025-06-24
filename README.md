@@ -1,4 +1,4 @@
-# Introdcutory data wrangling 
+# Introductory data wrangling 
 
 A lecture for my 3rd year Physics and Space Science students. 
 

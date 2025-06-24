@@ -1,6 +1,6 @@
-# Wrangling lecture
+# Introdcutory data wrangling 
 
-A lecture on introductory data wrangling for my 3rd year Physics and Space Science students. 
+A lecture for my 3rd year Physics and Space Science students. 
 
 Given in conjunction with two notebboks:
 

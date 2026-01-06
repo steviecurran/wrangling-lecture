@@ -1,7 +1,5 @@
 # Introductory data wrangling 
 
-A lecture for my 3rd year Physics and Space Science students. 
-
 Given in conjunction with two notebboks:
 
 - Ex1.ipynb, which uses data we worked with in 2nd year for the of concepts mean, variance, the central limit theorem and A/B testing
@@ -22,3 +20,5 @@ Given in conjunction with two notebboks:
   The latter of which shows that the number of fires has been steadily increasing over the range of the data (1998 - 2018) 
 
 ![](https://raw.githubusercontent.com/steviecurran/wrangling-lecture/refs/heads/main/Fires_scatter-Years-sum.png)
+
+Question_bank.pdf  contains two practical exercises with the solutions in quakes.ipynb  and  spectrum.py

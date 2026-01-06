@@ -22,3 +22,5 @@ Given in conjunction with two notebboks:
 ![](https://raw.githubusercontent.com/steviecurran/wrangling-lecture/refs/heads/main/Fires_scatter-Years-sum.png)
 
 Question_bank.pdf  contains two practical exercises with the solutions in quakes.ipynb  and  spectrum.py
+
+![](https://raw.githubusercontent.com/steviecurran/wrangling-lecture/refs/heads/main/world-mpl.png)

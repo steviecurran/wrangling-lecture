@@ -1,4 +1,12 @@
-# Introductory data wrangling 
+# Data Wrangling: From Messy Data to Meaningful Insight
+
+Topics covered include:
+- Reading and structuring data from multiple formats (CSV, Excel, fixed-width, text)
+- Identifying and fixing common data quality issues (missing values, incorrect types, inconsistent units)
+- Filtering, grouping, merging, and reshaping datasets using pandas
+- Practical strategies for dealing with categorical vs numerical data
+- Cleaning and analysing real-world datasets (including time series)
+- Visualising results and checking that conclusions actually make sense
 
 Given in conjunction with two notebboks:
 
